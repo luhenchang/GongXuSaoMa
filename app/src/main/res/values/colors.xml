@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="scan_bg">#7f000000</color>
+    <color name="colorPrimary">#227160</color>
+    <color name="colorPrimaryDark">#999999</color>
+    <color name="colorAccent">#ff5a5f</color>
+    <color name="white">#ffffff</color>
+</resources>
